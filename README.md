@@ -1,2 +1,6 @@
-# This is the report I have designed from scratch. to a java based automation framework, I have designed. 
-# This report could be interated to any java based framework.
+- This is the report I have designed from scratch. to a java based automation framework, I have designed. 
+- This report could be interated to any java based framework.
+- After every execution end, the framework generates 2 level of reporting.
+- 1st level- Expose test suite level performance, e.g. how many testcase passed/failed.
+- 2nd level- Expose test steps level performance, e.g. which steps of a testcase get passed/failed.
+- Also screenshot of failure validation is attached with concerned failure steps.
